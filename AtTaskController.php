@@ -1,18 +1,7 @@
 <?php
 
-//require_once (dirname(dirname(dirname(dirname(__FILE__)))) . '/inc/paths.php');
-require_once ('../common/includes/path_configuration.inc.php');
-require_once ($_ENV['WORKDIR'] . '/html/common/includes/globals.inc.php');
-require_once ($_ENV['WORKDIR'] . '/html/common/objects/Helper.class.php');
-require_once ($_ENV['WORKDIR'] . '/html/common/objects/PHPMailer/class.phpmailer.php');
-require_once ($_ENV['WORKDIR'] . '/html/common/objects/DateHelper.class.php');
-require_once ($_ENV['WORKDIR'] . '/html/common/objects/DebugHelper.class.php');
-require_once ($_ENV['WORKDIR'] . '/html/common/objects/FormatHelper.class.php');
-require_once ($_ENV['WORKDIR'] . '/html/common/objects/SanitizeHelper.class.php');
-require_once ($_ENV['WORKDIR'] . '/html/common/objects/adminObj.class.php');
-require_once ($_ENV['WORKDIR'] . '/html/common/objects/EASObj.class.php');
+//require_once files have been removed for sanitation purposes
 
-require_once ($_ENV['WORKDIR'] . '/html/common/objects/database/mySQLiProcessor.class.php');
 
 
 class AttaskController extends BaseController {
