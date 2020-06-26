@@ -1,0 +1,25 @@
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Dosis|Source+Sans+Pro);
+@import url(https://fonts.googleapis.com/css?family=Lato:100,300,400,700,300italic,400italic,700italic|Lustria);
+
+// bootswatch paper theme
+@import "~bootstrap-sass/assets/stylesheets/_bootstrap.scss";
+
+// font awesome
+@import "~font-awesome/scss/font-awesome.scss";
+
+// template styles
+@import "./tmpl.scss";
+
+// faq page styles
+@import "./faq.scss";
+
+// custom CSS overrides
+// NOTE: the default custom.scss file makes all images responsive
+@import "./animate.scss";
+@import "./color-switcher.scss";
+@import "./dragtable.scss";
+@import "./custom.scss";
+@import "./color/red.scss";
+@import "./swoopdeal.scss";
+

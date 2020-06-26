@@ -1,0 +1,271 @@
+section.content {
+  background-color: #c0c0c0;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+div.container-products,
+div.container-blog,
+div.container-recent-blog-posts,
+div.container-about,
+div.container-categories,
+div.container-terms,
+div.container-privacy {
+  background-color: #FFFFFF;
+  height: 100%;
+}
+
+.content img {
+  max-height: 240px;
+  max-width: 240px;
+  border-radius: 0;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.products-header {
+  margin-bottom: 0;
+  box-shadow: none;
+}
+
+div.product-mrgn-zero, .side-bar-div {
+  margin-bottom: 20px;
+}/* HEADER - NAVBAR */
+
+[class*="col-"] {
+  margin-bottom: 0;
+}
+
+.top-header {
+  border-bottom: 0;
+  background-color: #F9F9F9;
+  height: auto;
+}
+
+article.product-item {
+  margin: 2px;
+  box-shadow: none;
+  border: solid 1px #D0D0D0;
+}
+
+div.blog-posts {
+  background-color: #C0C0C0;
+}
+
+article.components-content {
+  box-shadow: none;
+}
+
+article.post {
+  padding-left: 0;
+  position: relative;
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #F0F0F0;
+}
+
+div.blog-entries {
+  padding-left: 10px;
+}
+
+div.product-search {
+  background-color: #FFFFFF;
+}
+
+h3.top-deals {
+  font-size: 35px;
+}
+
+h4.blog-posts, h4.categories {
+  color: #FFFFFF;
+  background-color: #E87169;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+h4.blog-posts {
+  color: #FFFFFF;
+  background-color: #E87169;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+div.form-group > label {
+  font-size: 12px;
+}
+
+div.products-header > hr {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+article.post > div.post-left > div.author > img.img-circle {
+  border-radius: 50%;
+  max-width: 100%;
+  vertical-align: center;
+}
+
+img.size-full {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.blog-container {
+  background-color: #FFFFFF;
+}
+
+.sidebar {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+aside.sidebar > div.col-xs-11 {
+  padding-left: 7px;
+  padding-right: 7px;
+}
+
+section.single-product {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+span.twitter-typeahead {
+  position: relative;
+  float: left;
+  width: 100%;
+  margin-bottom: 0;
+  height: 46px;
+  padding: 10px 16px;
+  line-height: 1.3333333;
+  border-color: #E87169;
+}
+
+input.tt-hint {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  margin-bottom: 0;
+  height: 46px;
+  padding: 10px 16px;
+  line-height: 1.3333333;
+}
+
+.tt-input-override {
+  position: absolute !important;
+  height: 46px;
+  top: 0;
+  left: 0;
+  margin-bottom: 0;
+  width: 100%;
+  border-color: #E87169;
+}
+
+h4.tt-bg {
+  color: #666666;
+  padding-left: 10px;
+  border-color: #2F3133;
+  border: thin;
+  border-bottom: 0;
+}
+
+.tt-menu {
+  background-color: #fffef9;
+  width: 400px;
+}
+
+a.tt-highlight:hover {
+  background-color: #E87169 !important;
+  color: #FFFFFF !important;
+  size: 12px;
+}
+
+.product-pagination {
+  margin-top: 10px;
+}
+
+div.margin-20 {
+  margin-top: 20px;
+}
+
+span.date {
+  color:#E87169;
+  display: inline-block;
+  font-weight: 600;
+  border: 2px solid #E87169;
+  padding: 0 5px;
+}
+
+img.img-about {
+  max-height: 100%;
+  max-width: 100%;
+}
+article.post > div.post-left > div.author > img.img-circle {
+  border-radius: 50%;
+  max-width: 100%;
+  vertical-align: center;
+}
+
+img.size-full {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+img.size-full {
+  max-width: 400px;
+  max-height: 400px;
+}
+
+div.read-more {
+  margin-top: 15px;
+}
+
+div.date {
+  color:#E87169;
+  display: inline-block;
+  font-weight: 600;
+  border: 2px solid #E87169;
+  padding: 0 5px;
+  margin-bottom: 10px;
+}
+
+.pagination > .active > a,
+.pagination > .active > a:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span,
+.pagination > .active > span:hover,
+.pagination > .active > span:focus {
+
+  background-color: #E87169;
+  border-color: #E87169;
+
+}
+
+.product-pagination {
+  margin-top: 10px;
+}
+
+div.filters {
+  margin-bottom: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+section.single-product > article.product-item {
+  margin: 0px;
+  box-shadow: none;
+  border: 0;
+  border-top: 0;
+  border-bottom: 0;
+  height: 100%;
+}
+
+.blog-pic {
+  margin: 0 auto !important;
+}
+
+.anticlick {
+  display: none;
+}
