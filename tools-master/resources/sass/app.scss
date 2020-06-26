@@ -1,0 +1,17 @@
+// Fonts
+@import url("//fonts.googleapis.com/css?family=Lato:300,400");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&lang=en");
+
+// font awesome
+@import "~font-awesome/scss/font-awesome.scss";
+@import "~simple-line-icons/scss/simple-line-icons.scss";
+
+
+// custom CSS overrides
+@import "./style";
+
+// template styles
+//@import "./tmpl";
+
+// Custom styles
+@import "custom";
